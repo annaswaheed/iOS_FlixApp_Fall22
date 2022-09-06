@@ -7,6 +7,4 @@ the tableview with it. it gets the data about the new released movies and show i
 
 below attached is a GIF demonstration of the App
 
-[<blockquote class="imgur-embed-pub" lang="en" data-id="a/c2kkCNw" data-context="false" ><a href="//imgur.com/a/c2kkCNw"></a></blockquote>](https://s4.gifyu.com/images/FlixApp_AdobeExpress-1.gif)
-
 ![Alt Text](https://s4.gifyu.com/images/FlixApp_AdobeExpress-1.gif)
