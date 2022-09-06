@@ -7,4 +7,4 @@ the tableview with it. it gets the data about the new released movies and show i
 
 below attached is a GIF demonstration of the App
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/c2kkCNw" data-context="false" ><a href="//imgur.com/a/c2kkCNw"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/c2kkCNw" data-context="false" ><a href="//imgur.com/a/c2kkCNw"></a></blockquote>
